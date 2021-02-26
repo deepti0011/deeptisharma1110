@@ -2,7 +2,7 @@ Welcome to Deepti Sharma's Profile
 
 2020mt93112
 
-PROJECT - OPENSOURCE SOFTWARE ENGINEERING 
+PROJECT - OPEN SOURCE SOFTWARE ENGINEERING 
 
 Pursuing "Master of Technology in Software Engineering" from BITS Pilani as WILP for the year 2020-2022.
 
